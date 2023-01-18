@@ -5,3 +5,11 @@ Official page for "Weakly Supervised Two-Stage Training Scheme for Deep Video Fi
 [Paper](https://arxiv.org/abs/2209.11477)
 
 [Dataset (Google Drive)](https://drive.google.com/file/d/1bpP9_4pUf7ffriQIRYJhK9L-Z3lUlBxb/view?usp=sharing)
+
+![](src/fig3.png)
+
+![](src/tab2.png)
+
+![](src/fig4.png)
+
+![](src/tab1.png)
